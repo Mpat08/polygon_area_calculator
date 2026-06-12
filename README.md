@@ -10,10 +10,10 @@ No external dependencies required — just Python 3.x and the built-in `math` mo
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/polygon-area-calculator.git
+git clone https://github.com/Mpat08/polygon_area_calculator.git
 
 # Navigate into the project folder
-cd polygon-area-calculator
+cd polygon_area_calculator
 ```
 
 ---
